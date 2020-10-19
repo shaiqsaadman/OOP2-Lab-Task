@@ -1,0 +1,12 @@
+/Users/shaiqsaadman/Desktop/c# git/Lab1/Devide/Devide/bin/Debug/netcoreapp3.1/Devide.deps.json
+/Users/shaiqsaadman/Desktop/c# git/Lab1/Devide/Devide/bin/Debug/netcoreapp3.1/Devide.runtimeconfig.json
+/Users/shaiqsaadman/Desktop/c# git/Lab1/Devide/Devide/bin/Debug/netcoreapp3.1/Devide.runtimeconfig.dev.json
+/Users/shaiqsaadman/Desktop/c# git/Lab1/Devide/Devide/bin/Debug/netcoreapp3.1/Devide.dll
+/Users/shaiqsaadman/Desktop/c# git/Lab1/Devide/Devide/bin/Debug/netcoreapp3.1/Devide.pdb
+/Users/shaiqsaadman/Desktop/c# git/Lab1/Devide/Devide/obj/Debug/netcoreapp3.1/Devide.csprojAssemblyReference.cache
+/Users/shaiqsaadman/Desktop/c# git/Lab1/Devide/Devide/obj/Debug/netcoreapp3.1/Devide.AssemblyInfoInputs.cache
+/Users/shaiqsaadman/Desktop/c# git/Lab1/Devide/Devide/obj/Debug/netcoreapp3.1/Devide.AssemblyInfo.cs
+/Users/shaiqsaadman/Desktop/c# git/Lab1/Devide/Devide/obj/Debug/netcoreapp3.1/Devide.csproj.CoreCompileInputs.cache
+/Users/shaiqsaadman/Desktop/c# git/Lab1/Devide/Devide/obj/Debug/netcoreapp3.1/Devide.dll
+/Users/shaiqsaadman/Desktop/c# git/Lab1/Devide/Devide/obj/Debug/netcoreapp3.1/Devide.pdb
+/Users/shaiqsaadman/Desktop/c# git/Lab1/Devide/Devide/obj/Debug/netcoreapp3.1/Devide.genruntimeconfig.cache

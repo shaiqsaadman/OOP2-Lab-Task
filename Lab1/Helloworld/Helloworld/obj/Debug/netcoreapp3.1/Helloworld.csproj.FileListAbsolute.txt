@@ -1,0 +1,12 @@
+/Users/shaiqsaadman/Desktop/c# git/Lab1/Helloworld/Helloworld/bin/Debug/netcoreapp3.1/Helloworld.deps.json
+/Users/shaiqsaadman/Desktop/c# git/Lab1/Helloworld/Helloworld/bin/Debug/netcoreapp3.1/Helloworld.runtimeconfig.json
+/Users/shaiqsaadman/Desktop/c# git/Lab1/Helloworld/Helloworld/bin/Debug/netcoreapp3.1/Helloworld.runtimeconfig.dev.json
+/Users/shaiqsaadman/Desktop/c# git/Lab1/Helloworld/Helloworld/bin/Debug/netcoreapp3.1/Helloworld.dll
+/Users/shaiqsaadman/Desktop/c# git/Lab1/Helloworld/Helloworld/bin/Debug/netcoreapp3.1/Helloworld.pdb
+/Users/shaiqsaadman/Desktop/c# git/Lab1/Helloworld/Helloworld/obj/Debug/netcoreapp3.1/Helloworld.csprojAssemblyReference.cache
+/Users/shaiqsaadman/Desktop/c# git/Lab1/Helloworld/Helloworld/obj/Debug/netcoreapp3.1/Helloworld.AssemblyInfoInputs.cache
+/Users/shaiqsaadman/Desktop/c# git/Lab1/Helloworld/Helloworld/obj/Debug/netcoreapp3.1/Helloworld.AssemblyInfo.cs
+/Users/shaiqsaadman/Desktop/c# git/Lab1/Helloworld/Helloworld/obj/Debug/netcoreapp3.1/Helloworld.csproj.CoreCompileInputs.cache
+/Users/shaiqsaadman/Desktop/c# git/Lab1/Helloworld/Helloworld/obj/Debug/netcoreapp3.1/Helloworld.dll
+/Users/shaiqsaadman/Desktop/c# git/Lab1/Helloworld/Helloworld/obj/Debug/netcoreapp3.1/Helloworld.pdb
+/Users/shaiqsaadman/Desktop/c# git/Lab1/Helloworld/Helloworld/obj/Debug/netcoreapp3.1/Helloworld.genruntimeconfig.cache

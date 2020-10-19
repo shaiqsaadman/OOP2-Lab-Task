@@ -1,0 +1,12 @@
+/Users/shaiqsaadman/Desktop/c# git/Lab1/operations/operations/bin/Debug/netcoreapp3.1/operations.deps.json
+/Users/shaiqsaadman/Desktop/c# git/Lab1/operations/operations/bin/Debug/netcoreapp3.1/operations.runtimeconfig.json
+/Users/shaiqsaadman/Desktop/c# git/Lab1/operations/operations/bin/Debug/netcoreapp3.1/operations.runtimeconfig.dev.json
+/Users/shaiqsaadman/Desktop/c# git/Lab1/operations/operations/bin/Debug/netcoreapp3.1/operations.dll
+/Users/shaiqsaadman/Desktop/c# git/Lab1/operations/operations/bin/Debug/netcoreapp3.1/operations.pdb
+/Users/shaiqsaadman/Desktop/c# git/Lab1/operations/operations/obj/Debug/netcoreapp3.1/operations.csprojAssemblyReference.cache
+/Users/shaiqsaadman/Desktop/c# git/Lab1/operations/operations/obj/Debug/netcoreapp3.1/operations.AssemblyInfoInputs.cache
+/Users/shaiqsaadman/Desktop/c# git/Lab1/operations/operations/obj/Debug/netcoreapp3.1/operations.AssemblyInfo.cs
+/Users/shaiqsaadman/Desktop/c# git/Lab1/operations/operations/obj/Debug/netcoreapp3.1/operations.csproj.CoreCompileInputs.cache
+/Users/shaiqsaadman/Desktop/c# git/Lab1/operations/operations/obj/Debug/netcoreapp3.1/operations.dll
+/Users/shaiqsaadman/Desktop/c# git/Lab1/operations/operations/obj/Debug/netcoreapp3.1/operations.pdb
+/Users/shaiqsaadman/Desktop/c# git/Lab1/operations/operations/obj/Debug/netcoreapp3.1/operations.genruntimeconfig.cache
