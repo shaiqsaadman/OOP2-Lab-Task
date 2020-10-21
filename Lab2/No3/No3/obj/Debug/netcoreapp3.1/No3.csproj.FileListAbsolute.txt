@@ -1,0 +1,12 @@
+/Users/shaiqsaadman/Desktop/c# git/Lab2/No3/No3/obj/Debug/netcoreapp3.1/No3.csprojAssemblyReference.cache
+/Users/shaiqsaadman/Desktop/c# git/Lab2/No3/No3/obj/Debug/netcoreapp3.1/No3.AssemblyInfoInputs.cache
+/Users/shaiqsaadman/Desktop/c# git/Lab2/No3/No3/obj/Debug/netcoreapp3.1/No3.AssemblyInfo.cs
+/Users/shaiqsaadman/Desktop/c# git/Lab2/No3/No3/obj/Debug/netcoreapp3.1/No3.csproj.CoreCompileInputs.cache
+/Users/shaiqsaadman/Desktop/c# git/Lab2/No3/No3/bin/Debug/netcoreapp3.1/No3.deps.json
+/Users/shaiqsaadman/Desktop/c# git/Lab2/No3/No3/bin/Debug/netcoreapp3.1/No3.runtimeconfig.json
+/Users/shaiqsaadman/Desktop/c# git/Lab2/No3/No3/bin/Debug/netcoreapp3.1/No3.runtimeconfig.dev.json
+/Users/shaiqsaadman/Desktop/c# git/Lab2/No3/No3/bin/Debug/netcoreapp3.1/No3.dll
+/Users/shaiqsaadman/Desktop/c# git/Lab2/No3/No3/bin/Debug/netcoreapp3.1/No3.pdb
+/Users/shaiqsaadman/Desktop/c# git/Lab2/No3/No3/obj/Debug/netcoreapp3.1/No3.dll
+/Users/shaiqsaadman/Desktop/c# git/Lab2/No3/No3/obj/Debug/netcoreapp3.1/No3.pdb
+/Users/shaiqsaadman/Desktop/c# git/Lab2/No3/No3/obj/Debug/netcoreapp3.1/No3.genruntimeconfig.cache
