@@ -1,11 +1,11 @@
-﻿<Properties StartupConfiguration="{EE4FCFEC-BE3F-404B-AC44-C8C573F03D46}|Default">
-  <MonoDevelop.Ide.ItemProperties.Course FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Course/Program.cs">
+﻿<Properties StartupConfiguration="{9238217C-68D7-4C45-BB17-C691342966ED}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Account/Program.cs">
     <Files>
-      <File FileName="Course/Program.cs" Line="16" Column="37" />
+      <File FileName="Account/Program.cs" Line="11" Column="13" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Account FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
