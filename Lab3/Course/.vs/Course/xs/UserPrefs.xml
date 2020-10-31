@@ -1,10 +1,10 @@
-﻿<Properties StartupConfiguration="{4B1747AC-65EF-40E2-9D0F-400EBAF7DD33}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Triangle/Program.cs">
+﻿<Properties StartupConfiguration="{EE4FCFEC-BE3F-404B-AC44-C8C573F03D46}|Default">
+  <MonoDevelop.Ide.ItemProperties.Course FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Course/Program.cs">
     <Files>
-      <File FileName="Triangle/Program.cs" Line="9" Column="39" />
+      <File FileName="Course/Program.cs" Line="5" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Triangle FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
