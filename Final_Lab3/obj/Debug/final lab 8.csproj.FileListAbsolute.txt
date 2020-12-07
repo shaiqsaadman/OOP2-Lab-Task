@@ -1,0 +1,12 @@
+E:\Semester 6\C#\Lab Task\final lab 8\bin\Debug\final lab 8.exe.config
+E:\Semester 6\C#\Lab Task\final lab 8\bin\Debug\final lab 8.exe
+E:\Semester 6\C#\Lab Task\final lab 8\bin\Debug\final lab 8.pdb
+E:\Semester 6\C#\Lab Task\final lab 8\obj\Debug\final lab 8.csprojAssemblyReference.cache
+E:\Semester 6\C#\Lab Task\final lab 8\obj\Debug\final_lab_8.LoginForm.resources
+E:\Semester 6\C#\Lab Task\final lab 8\obj\Debug\final_lab_8.Properties.Resources.resources
+E:\Semester 6\C#\Lab Task\final lab 8\obj\Debug\final lab 8.csproj.GenerateResource.cache
+E:\Semester 6\C#\Lab Task\final lab 8\obj\Debug\final lab 8.csproj.CoreCompileInputs.cache
+E:\Semester 6\C#\Lab Task\final lab 8\obj\Debug\final lab 8.exe
+E:\Semester 6\C#\Lab Task\final lab 8\obj\Debug\final lab 8.pdb
+E:\Semester 6\C#\Lab Task\final lab 8\obj\Debug\final_lab_8.Dashboard.resources
+E:\Semester 6\C#\Lab Task\final lab 8\obj\Debug\final_lab_8.InformationForm.resources
